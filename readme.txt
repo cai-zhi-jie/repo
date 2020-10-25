@@ -1,5 +1,4 @@
-Git is a version control system
-today 
+Git is a distributed version control system.
 
 
 
